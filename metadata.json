@@ -1,0 +1,6 @@
+{
+  "name": "ServoLab Simulation Engine",
+  "description": "High-performance servo system simulator for testing master-slave synchronization algorithms and on-the-fly positioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
