@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "controller",
+    "gui",
+    "protocol"
+]
+resolver = "2"

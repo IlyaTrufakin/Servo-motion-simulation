@@ -1,8 +1,4 @@
-node_modules/
-build/
-dist/
-coverage/
+/target/
+**/*.rs.bk
+*.pdb
 .DS_Store
-*.log
-.env*
-!.env.example
